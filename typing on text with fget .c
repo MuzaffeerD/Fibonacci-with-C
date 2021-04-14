@@ -3,10 +3,6 @@
 
 int main(){
 	char data[256];
-	int length = strlen(data);
-	int i;	
-	
-
 
 	
 	FILE *filep = fopen("My_Name.txt","w");
